@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+body{
+    font-family: 'Inter', 'Architects Daughter', sans-serif;
+    background-color: #151719;
+}
+.navbar{
+    background-color: #151719;
+}
+.nav-item{
+    color: #5D5DFF;
+}
+
+header .btn{
+    background-color: #5D5DFF;
+    color: white;
+}
+header .btn:hover{
+    background-color: #5D5DFF;
+    color: white;
+}
+
+.sec-1{
+    color: white;
+}
+.sec-1 .text-center{
+    margin-top: 50px;
+}
+.sec-1 h1{
+    font-size: 52px;
+    font-weight: 700;
+}
+.sec-1 p{
+    font-size: 20px;
+    color: #9BA9B4;
+}
+.sec-1 .btn{
+    background-color: #5D5DFF;
+    color: white;
+    border-radius: 0;
+}
+.sec-1 .btn-2{
+    background-color: #33363A;
+}
+.sec-1 img{
+    width: 1024px;
+    background-size: cover;
+}
+
+.sec-2{
+    height: 100vh;
+    color: white;
+}
+.sec-2 .text-center{
+    margin-top: 35px;
+}
+.sec-2 .col-md-4{
+    padding: 15px;
+}
+.sec-2 img{
+    width: 70px;
+    padding: 10px;
+}
+
+.sec-3{
+    color: white;
+}
+.sec-3 .text-center{
+    margin-top: 40px;
+}
+.sec-3 h6{
+    font-family: Architects Daughter;
+    font-size: 20px;
+    color: #5D5DFF;
+}
+.sec-3 .text{
+    margin-top: 50px;
+}
+.sec-3 .col-md-6{
+    margin-top: 100px;
+}
+.sec-4{
+    color: white;
+}
+.sec-4 .text-center{
+    margin-top: 130px;
+}
+.sec-4 .card{
+    background-color: #979797;
+    margin-top: 90px;
+}
+.sec-4 .card img{
+    padding: 10px;
+}
+.sec-4 .card p{
+    color: white;
+}
+.sec-4 .card hr{
+    color: black;
+}
+.sec-4 .card h6{
+    color: white;
+}
+.sec-4 .card span{
+    color: #5D5DFF;
+}
+
+.sec-5{
+    height: 50vh;
+}
+.sec-5 .card{
+    margin-top: 100px;
+    height: 200px;
+    background-color: #5D5DFF;
+}
+.sec-5 .card h5{
+    margin-top: 60px;
+    margin-left: 40px;
+    color: white;
+    font-weight: 700;
+}
+.sec-5 .card p{
+    margin-top: 10px;
+    margin-left: 40px;
+    color: white;
+}
+.sec-5 .card form{
+    margin-top: 70px;
+    width: 300px;
+    border-radius: 0;
+}
+.sec-5 .card input{
+    background-color: #8D8DFF;
+    border: 1px solid white;
+    border-radius: 0;
+}
+.sec-5 .card .btn{
+    background-color: white;
+    border-radius: 0;
+    color: #5D5DFF;
+}
+
+footer{
+    color: white;
+}
